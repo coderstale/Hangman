@@ -1,1 +1,1 @@
-# Hangman Project
+# The Hangman game
